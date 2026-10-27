@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native builds
+android/
+ios/
+
+# TypeScript & Cache
+*.tsbuildinfo
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & IDE
+.env*
+.DS_Store
+*.pem
+Thumbs.db

@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "OssaCare",
+    "slug": "ossacare-fracture-recovery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "splash": {
+      "backgroundColor": "#0D1B2A"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ossacare.recovery"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font",
+      "expo-video"
+    ]
+  }
+}
